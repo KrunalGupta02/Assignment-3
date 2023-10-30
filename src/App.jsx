@@ -60,9 +60,12 @@ const App = () => {
           alt="logo"
           className="hover:animate-spin duration-75"
         />
-        <h1 className="text-slate-400 text-xl font-bold hover:text-red-600 hover:underline hover:underline-offset-8 transition-all duration-75 cursor-pointer hover:animate-pulse">
+        <a
+          href="https://github.com/KrunalGupta02/Assignment-3/tree/main"
+          className="text-slate-400 text-xl font-bold hover:text-red-600 hover:underline hover:underline-offset-8 transition-all duration-75 cursor-pointer hover:animate-pulse"
+        >
           inshorts
-        </h1>
+        </a>
       </div>
 
       {/* Search bar */}
