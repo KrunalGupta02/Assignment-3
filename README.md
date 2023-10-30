@@ -6,13 +6,15 @@
 Firstly, clone the repository:
 
 ```bash
-git clone https://github.com/krunalgupta02/Assignment3.git
+git clone https://github.com/KrunalGupta02/Assignment-3.git
 ```
 
+Install the node modules
 ```bash
 npm install
 ```
 
+Run in the local host
 ```bash
 npm run dev
 ```
