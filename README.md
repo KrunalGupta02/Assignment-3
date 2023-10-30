@@ -1,8 +1,28 @@
-# React + Vite
+## Assignment Task of Elevatifier
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# For installing in your PC kidnly do the below steps 
+## Getting Started
 
-Currently, two official plugins are available:
+Firstly, clone the repository:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+git clone https://github.com/krunalgupta02/Assignment3.git
+```
+
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
+
+## Live Link :- https://elevatifier-task.netlify.app/
+
+### Features:-
+- Fully Responsive
+- Implement the search functionality
+- Giving Error message if no query message is found
+- Fetching the demo data
+
+## Tech Stack :- ReactJS, Javascript, TailwindCSS, Axios
